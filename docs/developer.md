@@ -73,8 +73,10 @@ If you want to report a bug or ask a question, [create an issue](https://github.
 
 ## Installation ##
 
-1. Run `git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git`
-2. Rename the folder in `tranquilpeak` and place it in `themes` folder of your Hexo blog
+1. hexo init **folder-name**
+2. cd **folder-name**
+3. cd themes
+4. Run `git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git`
 3. Modify the theme in `_config.yml` by changing `theme` variable  to `tranquilpeak`
 4. Complete `theme/tranquilpeak/_config.yml` with your informations by following directives in comments
 
